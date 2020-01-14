@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name" translatable="false">Movie Catalogue</string>
+
+    <string name="movies" translatable="false">Movies</string>
+    <string name="tv_show" translatable="false">Tv Show</string>
+    <string name="path_url_image" translatable="false">https://image.tmdb.org/t/p/w500/</string>
+    <string name="rating" translatable="false">Rating</string>
+    <string name="date" translatable="false">Date</string>
+    <string name="overview" translatable="false">Overview</string>
+    <string name="vote_count" translatable="false">Vote Count</string>
+    <string name="popularity" translatable="false">Popularity</string>
+    <string name="image" translatable="false">Image</string>
+    <string name="favorite" translatable="false">Favorite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="add_to_favorite" translatable="false">Add to Favorite</string>
+    <string name="remove_from_favorite" translatable="false">Remove from Favorite</string>
+    <string name="addMovie" translatable="false">The Movie has been added</string>
+    <string name="addTvShow" translatable="false">The Tv Show has been added</string>
+    <string name="selectMoviesTvShow" translatable="false">has been added to favorites.</string>
+    <string name="title_alert_movie" translatable="false">Delete Movies from Favorite</string>
+    <string name="body_alert_movie" translatable="false">Are you sure you to delete this movie from your favorite list. ?</string>
+    <string name="yes" translatable="false">Yes</string>
+    <string name="no" translatable="false">No</string>
+    <string name="toast_movie" translatable="false">The movie has been deleted from your favorite list</string>
+    <string name="title_alert_tvShow" translatable="false">Delete Tv Show from Favorite</string>
+    <string name="toast_tvShow" translatable="false">The Tv Show has been deleted from your favorite list</string>
+    <string name="body_alert_tvShow" translatable="false">Are you sure you to delete this Tv Show from your favorite list. ?</string>
+</resources>

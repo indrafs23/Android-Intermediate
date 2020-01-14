@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movies">Movies</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="path_url_image">https://image.tmdb.org/t/p/w500/</string>
+    <string name="rating">Rating</string>
+    <string name="date" translatable="false">Date</string>
+    <string name="overview" translatable="false">Overview</string>
+    <string name="vote_count" translatable="false">Vote Count</string>
+    <string name="popularity" translatable="false">Popularity</string>
+</resources>
